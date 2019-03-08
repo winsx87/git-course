@@ -2,4 +2,4 @@ valami
 
 develop branch
 
-stash mod conflit origin
+stash mod
