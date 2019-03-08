@@ -2,4 +2,8 @@ valami
 
 develop branch
 
+<<<<<<< HEAD
 stash mod conflict
+=======
+stash mod conflit origin
+>>>>>>> 003fa969def5ebe41a654d9244774f7a79ead90e
